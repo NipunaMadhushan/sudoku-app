@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: dcdf0fa5e65e7c940a455a1578da7f00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boardPanel: {instanceID: 0}
+  - puzzle: {instanceID: 0}
+  - timeText: {instanceID: 0}
+  - mistakesText: {instanceID: 0}
+  - pausePanelTimeText: {instanceID: 0}
+  - pausePanelMistakesText: {instanceID: 0}
+  - pausePanelDifficultyLevelText: {instanceID: 0}
+  - boardObject: {fileID: 8237569866662591312, guid: 85b650b301d90e147a4f097f8fc63508, type: 3}
+  - buttonNumber1: {instanceID: 0}
+  - buttonNumber2: {instanceID: 0}
+  - buttonNumber3: {instanceID: 0}
+  - buttonNumber4: {instanceID: 0}
+  - buttonNumber5: {instanceID: 0}
+  - buttonNumber6: {instanceID: 0}
+  - buttonNumber7: {instanceID: 0}
+  - buttonNumber8: {instanceID: 0}
+  - buttonNumber9: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
